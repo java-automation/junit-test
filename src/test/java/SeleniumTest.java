@@ -50,5 +50,4 @@ public class SeleniumTest {
         driver.findElement(By.id("formSubmit")).click();
     }
 
-
 }
